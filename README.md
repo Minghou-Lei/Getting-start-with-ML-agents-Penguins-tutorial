@@ -1,5 +1,5 @@
 # Getting-start-with-ML-agents-Penguins-tutorial
 A Unity Learn Project where we train a penguin to catch fish and feed the baby penguin using latest version of ML-agents(0.14.0) and Unity 2019.3.1f1
 
-#Demo
+# Demo
 ![img](https://github.com/Mistletoer/Getting-start-with-ML-agents-Penguins-tutorial/blob/master/DemoImage/Training.gif)
