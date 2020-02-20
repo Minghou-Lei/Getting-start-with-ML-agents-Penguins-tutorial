@@ -3,3 +3,8 @@ A Unity Learn Project where we train a penguin to catch fish and feed the baby p
 
 # Demo
 ![img](https://github.com/Mistletoer/Getting-start-with-ML-agents-Penguins-tutorial/blob/master/DemoImage/Training.gif)
+
+# Training command
+'''
+  mlagents-learn config\trainer_config.yaml --curriculum=config\curricula\penguin\PenguinLearning.yaml --run-id=penguin_01 --train
+'''
